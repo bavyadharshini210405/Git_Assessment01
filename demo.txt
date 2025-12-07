@@ -1,4 +1,4 @@
 This is my first Git demo file.
 This line was added from GitHub.
 This line is from remote-branch.
-This is from LOCAL master branch.
+This is from REMOTE master branch.
